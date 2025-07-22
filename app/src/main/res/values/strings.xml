@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Consumo</string>
+    <string name="title_list_screen">Registros Consumo</string>
+    <string name="add_record_button_description">Agregar nuevo registro</string>
+    <string name="title_form_screen">Nuevo Registro</string>
+    <string name="save_button_description">Guardar registro</string>
+    <string name="meter_type_label">Tipo de Medidor:</string>
+    <string name="type_water">Agua</string>
+    <string name="type_light">Luz</string>
+    <string name="type_gas">Gas</string>
+    <string name="value_label">Valor</string>
+    <string name="content_description_water">Icono para Agua</string>
+    <string name="content_description_light">Icono para Luz</string>
+    <string name="content_description_gas">Icono para Gas</string>
+    <string name="content_description_help">Icono de ayuda para tipo desconocido</string>
+
+    <string name="title_meter_record">Registro Medidor</string>
+    <string name="meter_label">Medidor</string>
+    <string name="date_label">Fecha: %s</string> <string name="register_measurement_button">Registrar medición</string>
+</resources>

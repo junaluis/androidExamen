@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumption App</string>
+    <string name="title_list_screen">Consumption Records</string>
+    <string name="add_record_button_description">Add new record</string>
+    <string name="title_form_screen">New Record</string>
+    <string name="save_button_description">Save record</string>
+    <string name="meter_type_label">Meter Type:</string>
+    <string name="type_water">Water</string>
+    <string name="type_light">Electricity</string>
+    <string name="type_gas">Gas</string>
+    <string name="value_label">Value</string>
+    <string name="content_description_water">Water icon</string>
+    <string name="content_description_light">Light icon</string>
+    <string name="content_description_gas">Gas icon</string>
+    <string name="content_description_help">Help icon for unknown type</string>
+
+    <string name="title_meter_record">Meter Record</string>
+    <string name="meter_label">Meter</string>
+    <string name="date_label">Date: %s</string>
+    <string name="register_measurement_button">Register Measurement</string>
+</resources>
